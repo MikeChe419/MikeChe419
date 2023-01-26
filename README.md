@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @MikeChe419
-- 👀 I’m interested in job and tasks
-- 🌱 I’m currently learning Web development 
-- 💞️ I’m looking to collaborate on W3C, Opera, Mozilla
-- 📫 How to reach me amenhottep21@gmail.com
+### Hi! 👋
+### I'm Mikhail and I'm a beginner front-end developer from Moscow.
 
-<!---
-MikeChe419/MikeChe419 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💪 I realy like writing code.
+- 💬 I am communicative.
+- 🌱 I want to grow up as a great programmer.
+ 
+
+ ### Languages and Tools:
+
+<img align="left" alt="React" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="NODE.js" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="git" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="HTML5" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Visual Studio Code" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<br>
+
+ ### Contacts
+ [<img align="left" alt="VK | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][tg]
+
+
+ [tg]: t.me/Tskhet
