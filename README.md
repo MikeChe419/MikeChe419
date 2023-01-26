@@ -21,4 +21,4 @@
  [<img align="left" alt="VK | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][tg]
 
 
- [tg]: t.me/Tskhet
+ [tg]: https://t.me/Tskhet
