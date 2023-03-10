@@ -1,5 +1,5 @@
 ### Hi! 👋
-### I'm Mikhail and I'm a beginner front-end developer from Moscow.
+### I'm Mikhail and I'm a software-javascript engineer from Moscow. I was studied in computer science at the University of the Russian Technical Technical University at the Faculty of Cybernetics
 
 - 💪 I realy like writing code.
 - 💬 I am communicative.
